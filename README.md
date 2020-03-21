@@ -4,4 +4,4 @@ This script allows you to view posters of a content with high resolution in plac
 
 Install tampermonkey or similar to your browser and then import this script
 
-![Rarbg](.rarbg-preview)
+![Rarbg](rarbg-preview.png)
