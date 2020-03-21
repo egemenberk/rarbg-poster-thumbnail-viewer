@@ -4,6 +4,6 @@ This script allows you to view posters/thumbnails of a content with high resolut
 
 # Usage
 
-Install [tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) or similar to your browser and then import this script
+Install [tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) or similar to your browser and then import *rarbg.user.js*
 
 ![Rarbg](rarbg-preview.png)
